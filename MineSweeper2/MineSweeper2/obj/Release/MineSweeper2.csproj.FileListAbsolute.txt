@@ -1,0 +1,10 @@
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\bin\Release\MineSweeper2.exe.config
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\bin\Release\MineSweeper2.exe
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\bin\Release\MineSweeper2.pdb
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.Form1.resources
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.Form2.resources
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.Properties.Resources.resources
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.csproj.GenerateResource.Cache
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.csproj.CoreCompileInputs.cache
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.exe
+C:\Users\corym\Desktop\Portfolio\MineSweeper2\MineSweeper2\obj\Release\MineSweeper2.pdb
